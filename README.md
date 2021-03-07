@@ -17,6 +17,9 @@
  * 매일경제 인기뉴스 
 
 
+## 3. 구조
+<img src="https://user-images.githubusercontent.com/75604413/110244724-7092d580-7fa3-11eb-9a8f-f1f65c97cd44.png" width="50%" height="50%"/>
+
 
 ## 4. 과정
 

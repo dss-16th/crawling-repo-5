@@ -16,18 +16,17 @@
  * 매일경제
 
 
-## 3. 구조
+## 4. 시스템 구조
 <img src="https://user-images.githubusercontent.com/75604413/110244724-7092d580-7fa3-11eb-9a8f-f1f65c97cd44.png" width="50%" height="50%"/>
 
 
-## 4. 과정
-
-  
-
 ## 5. 코드 설명
+ * mk.py
+ * brunch.py
+ * tistory.py
 
 
-## 6. Contributor
+## 6. 기여
 
  * 류승환 
   * 티스토리 라이프 카테고리,브런치 에세이 카테고리 크롤링
